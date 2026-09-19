@@ -28,8 +28,6 @@ I had forgotten how to implement.
 understand how each part works, then replace the placeholder text and images with
 my own real content and fix a lot of things like the initial layout.
 
-> ✏️ **Personalize this section** with the specific difficulties or limitations *you*
-> encountered while using AI tools on this assignment.
 
 ## Learning Outcomes
 
@@ -41,15 +39,13 @@ Working through this assignment with AI assistance helped reinforce:
   especially around accessibility (`alt` text, `aria-live`, focus states) and correctness (form
   validation logic).
 
-> ✏️ **Personalize this section** with what *you* specifically learned — new concepts, tools, or
-> workflow habits from this assignment.
+
 
 ## Responsible Use & Modifications
 
 All AI-generated code and text in this repository was reviewed before being kept. Placeholder
-content (name, bio, project descriptions, contact links, images) is clearly marked with
-`✏️ edit-note` callouts in the site itself and TODO-style notes in this documentation, and is
+content (name, bio, project descriptions, contact links, images) is
 being replaced with my own original content and understanding before submission. I did not
-copy code from classmates or submit AI output unmodified — the structure, styling choices, and
+copy code from classmates or submit AI output unmodified, the structure, styling choices, and
 content were reviewed, tested in the browser, and adjusted to reflect my own understanding of how
 each piece works.
